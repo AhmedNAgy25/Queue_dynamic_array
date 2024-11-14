@@ -10,14 +10,6 @@ The `queue_ds` class is a template-based implementation of a circular queue data
   - [Private Member Functions](#private-member-functions)
   - [Public Member Functions](#public-member-functions)
 - [Example Usage](#example-usage)
-- [Function Details](#function-details)
-  - [enqueue(const T& val)](#enqueueconst-t-val)
-  - [dequeue()](#dequeue)
-  - [peekFront()](#peekfront)
-  - [print()](#print)
-  - [clear()](#clear)
-- [Error Handling](#error-handling)
-- [Summary](#summary)
 
 ## Class: `queue_ds<T>`
 
