@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1731615230 source:c:\users\kokoisland\desktop\queue\main.cpp
+	<iostream>
+	"queue_ds.h"
+
+1731615331 c:\users\kokoisland\desktop\queue\queue_ds.h
+	<iostream>
+
